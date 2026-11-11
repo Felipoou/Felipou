@@ -1,7 +1,7 @@
 ### **OLA** 👋
 Ola, eu sou **Felipou**, sou estudante de programação e futuro garoto de programa e nao sei mexer em computador.
 
-Estudante.
+Estudante.BLABLABLA
 <hr/>
 🔧 **Technologies & Tools**
 <p>
