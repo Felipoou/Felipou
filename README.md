@@ -3,7 +3,7 @@ Ola, eu sou **Felipou**, sou estudante de programação e futuro garoto de progr
 
 Estudante.BLABLABLA
 <hr/>
-🔧 **Technologies & Tools**
+🔧 **HAbilidades**
 <p>
 </p>
 
